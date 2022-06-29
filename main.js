@@ -1,0 +1,1 @@
+const divSix=document.querySelector('#divSix')
